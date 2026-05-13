@@ -35,3 +35,10 @@ Focus: Supply chain KPIs, forecasting, operational insights
 A clean, responsive website showcasing your analytics projects, skills, and contact details.
 Tech: HTML, CSS, GitHub Pages
 Focus: Personal branding, web hosting, GitHub workflow
+
+## 📬 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/karthick-nagarajan-87219726/
+- **Email:** karthick.nagarajan.84@gmail.com
+- **Portfolio Website:** https://karthick-84.github.io
+
