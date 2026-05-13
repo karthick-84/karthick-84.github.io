@@ -1,44 +1,83 @@
-# karthick-84
-Short Bio
-Postgraduate student in Business Analytics | Passionate about data, BI tools, and building practical analytics solutions.
+# 👋 Hi, I'm Karthick Nagarajan
 
-Skill Set
-Python, SQL, Power BI, Excel, Tableau, ML, Git
+## 📌 About Me
+Postgraduate student in Business Analytics, passionate about data, BI tools, and building practical analytics solutions.
 
-Projects
-📊 1. Sales Performance Dashboard (Power BI)
-A fully interactive Power BI dashboard analysing sales trends, top‑performing products, customer segments, and regional performance.
-Tech: Power BI, DAX, Data Modelling
-Focus: Business insights, KPI tracking, drill‑down analytics
+---
 
-🧮 2. Financial Reporting Automation (Excel + Power Query)
-Automated monthly financial reports using Power Query and advanced Excel formulas to reduce manual work and improve accuracy.
-Tech: Excel, Power Query, Pivot Tables
-Focus: Automation, financial analytics, data cleaning
+## 🛠️ Skills & Tools
 
-🐍 3. Customer Churn Prediction (Python + ML)
-A machine‑learning model predicting customer churn using classification algorithms and feature engineering.
-Tech: Python, Pandas, Scikit‑Learn, Matplotlib
-Focus: Predictive analytics, ML modelling, data preprocessing
+### 🔹 Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-🗄️ 4. SQL Data Analysis Portfolio
-A collection of SQL queries solving real‑world business problems such as revenue analysis, customer segmentation, and inventory tracking.
-Tech: SQL (Joins, CTEs, Window Functions)
-Focus: Query optimisation, business problem‑solving
+### 🔹 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-📦 5. Supply Chain Analytics Dashboard
-A dashboard analysing inventory levels, lead times, stockouts, and supplier performance.
-Tech: Power BI / Tableau
-Focus: Supply chain KPIs, forecasting, operational insights
+### 🔹 Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🌐 6. Personal Portfolio Website (GitHub Pages)
-A clean, responsive website showcasing your analytics projects, skills, and contact details.
-Tech: HTML, CSS, GitHub Pages
-Focus: Personal branding, web hosting, GitHub workflow
+---
+
+## 📁 Projects
+
+### 📊 1. Sales Performance Dashboard (Power BI)
+A fully interactive dashboard analysing sales trends, top‑performing products, customer segments, and regional performance.  
+**Tech:** Power BI, DAX, Data Modelling  
+
+---
+
+### 🧮 2. Financial Reporting Automation (Excel + Power Query)
+Automated monthly financial reports using Power Query and advanced Excel formulas.  
+**Tech:** Excel, Power Query, Pivot Tables  
+
+---
+
+### 🐍 3. Customer Churn Prediction (Python + ML)
+A machine‑learning model predicting customer churn using classification algorithms.  
+**Tech:** Python, Pandas, Scikit‑Learn  
+
+---
+
+### 🗄️ 4. SQL Data Analysis Portfolio
+A collection of SQL queries solving real‑world business problems.  
+**Tech:** SQL (Joins, CTEs, Window Functions)  
+
+---
+
+### 📦 5. Supply Chain Analytics Dashboard
+A dashboard analysing inventory levels, lead times, stockouts, and supplier performance.  
+**Tech:** Power BI / Tableau  
+
+---
+
+### 🌐 6. Personal Portfolio Website (GitHub Pages)
+A clean, responsive website showcasing your analytics projects and skills.  
+**Tech:** HTML, CSS, GitHub Pages  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthick-84&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick-84&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 👁️ Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=karthick-84&color=blue)
+
+---
 
 ## 📬 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/karthick-nagarajan-87219726/  
+- **Email:** karthick.nagarajan.84@gmail.com  
+- **Portfolio Website:** https://karthick-84.github.io  
 
-- **LinkedIn:** https://www.linkedin.com/in/karthick-nagarajan-87219726/
-- **Email:** karthick.nagarajan.84@gmail.com
-- **Portfolio Website:** https://karthick-84.github.io
 
