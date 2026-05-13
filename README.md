@@ -1,6 +1,11 @@
 # karthick-84
+Short Bio
 Postgraduate student in Business Analytics | Passionate about data, BI tools, and building practical analytics solutions.
+
+Skill Set
 Python, SQL, Power BI, Excel, Tableau, ML, Git
+
+Projects
 📊 1. Sales Performance Dashboard (Power BI)
 A fully interactive Power BI dashboard analysing sales trends, top‑performing products, customer segments, and regional performance.
 Tech: Power BI, DAX, Data Modelling
